@@ -1,6 +1,5 @@
 ### Hi there 👋
-                                                          
-<img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png)" width="100" height="100">
+                                                         
                                                           
 <!--
 **erizzardi/erizzardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
