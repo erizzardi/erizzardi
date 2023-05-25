@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![kubernetes-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png)
+<a href="[https://www.credly.com/badges/b03be37e-5e02-40e5-bc66-ccde0d81250c"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png)" height="96px" width="96px" /></a>
 <!--
 **erizzardi/erizzardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
